@@ -1,5 +1,5 @@
 # Simple Post Value
-A simple Javascript function implementation to POST a value from a button to a given page
+A simple Javascript function implementation to POST a value from a function call to a given page
 
 # Usage :
 Simply download an import SimplePostButton.js or Copy and paste the function within the file into a internal <script> tag
