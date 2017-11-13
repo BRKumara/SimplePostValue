@@ -2,7 +2,7 @@
 A simple Javascript function implementation to POST a value from a function call to a given page
 
 # Usage :
-Simply download an import SimplePostButton.js or Copy and paste the function within the file into a internal <script> tag
+Simply download an import SimplePostValue.js or Copy and paste the function within the file into a internal <script> tag
   
  ### Example :
   
